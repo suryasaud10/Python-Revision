@@ -1,0 +1,32 @@
+-----Portfolio Summary-----
+"Stock = AAPL 
+ Quantity = 10 
+ Price of stock = Rs.1800  
+ Total = Rs.18000"
+
+"Stock = TSLA 
+ Quantity = 12 
+ Price of stock = Rs.2500  
+ Total = Rs.30000"
+
+"Stock = MSFT 
+ Quantity = 13 
+ Price of stock = Rs.3000  
+ Total = Rs.39000"
+
+"Stock = AMZN 
+ Quantity = 15 
+ Price of stock = Rs.3300  
+ Total = Rs.49500"
+
+"Stock = NVDA 
+ Quantity = 14 
+ Price of stock = Rs.1450  
+ Total = Rs.20300"
+
+"Stock = META 
+ Quantity = 16 
+ Price of stock = Rs.2860  
+ Total = Rs.45760"
+
+Total_investment : Rs.202560
