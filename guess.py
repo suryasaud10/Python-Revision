@@ -9,8 +9,6 @@ person = 0
 while True:
     computer = int(input("Enter the random number guessed by computer : "))
 
-
-
     if(computer == num):
         comp +=5
         print(f"point of computer is: {comp}")

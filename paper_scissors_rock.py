@@ -13,7 +13,9 @@ while True:
     if user == comp:
         print("Game Draw")
 
-    elif (user == "p" and comp == "r") or (user == "r" and comp == "s") or (user == "s" and comp == "p"):
+    elif (user == "p" and comp == "r") or\
+         (user == "r" and comp == "s") or\
+         (user == "s" and comp == "p"):
         print("You WIn")
         break
 
